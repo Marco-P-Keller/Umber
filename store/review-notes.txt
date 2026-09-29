@@ -1,0 +1,12 @@
+Umber is a sound generator for sleep and focus. It has no accounts, no purchases, no ads and makes no network connections, so there is nothing to sign in to and no demo account.
+
+How to see everything in about 30 seconds:
+1. Tap "Brown Noise" on the home screen. Sound starts immediately and the player bar appears at the bottom.
+2. Tap two more sounds to blend them. Tap the timer button in the player bar and choose 15 minutes.
+3. Tap the gear icon for settings (mix with other audio, links to privacy and support).
+
+Background audio (UIBackgroundModes: audio): the app's purpose is continuous sound while the user sleeps or works, usually with the screen locked. Playback is user-started, shows Now Playing controls on the Lock Screen and stops when the user pauses or the sleep timer ends. No audio plays without the user asking for it.
+
+The sounds are synthesized in real time with AVAudioEngine (no recordings and no third-party libraries), which is why they never loop.
+
+Siri and Shortcuts: "Play brown noise in Umber" and "Stop Umber" are provided through App Intents.

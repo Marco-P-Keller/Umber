@@ -1,0 +1,25 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tools
+        run: brew install xcodegen
+      - name: Store texts and strings hold their limits
+        run: |
+          python3 Tools/make-strings.py
+          python3 Tools/make-store.py
+      - name: Generate project
+        run: xcodegen generate
+      - name: Test
+        run: |
+          set -o pipefail
+          DEST=$(xcrun simctl list devices available | grep -m1 -Eo 'iPhone [0-9]+[^(]*' | sed 's/ *$//')
+          xcodebuild -project Umber.xcodeproj -scheme Umber -destination "platform=iOS Simulator,name=$DEST" \
+            test CODE_SIGNING_ALLOWED=NO > test.log 2>&1 || { tail -80 test.log; exit 1; }
+          grep -E "Executed [0-9]+ tests" test.log | tail -1
