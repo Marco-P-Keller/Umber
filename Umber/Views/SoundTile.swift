@@ -47,7 +47,7 @@ struct SoundTile: View {
             Color.clear.frame(height: 30)
         }
         .padding(14)
-        .frame(maxWidth: .infinity, minHeight: sizeClass == .regular ? 180 : 128, alignment: .topLeading)
+        .frame(maxWidth: .infinity, minHeight: sizeClass == .regular ? 250 : 128, alignment: .topLeading)
     }
 
     @ViewBuilder private var glyph: some View {
