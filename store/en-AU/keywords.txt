@@ -1,1 +1,1 @@
-machine,sounds,baby,bub,adhd,focus,tinnitus,relax,study,womb,ocean,wind,timer,calm,nap,app
+bub,settle,study,newborn,nature,adhd,relax,calm,deep,aid,night,cot,revision,brownian,static

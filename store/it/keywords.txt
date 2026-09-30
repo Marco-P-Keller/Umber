@@ -1,1 +1,1 @@
-dormire,sonno,neonato,adhd,concentrazione,studio,acufene,rosa,pioggia,oceano,vento,timer,calma
+dormire,sonno,suoni,neonato,adhd,concentrazione,studio,acufene,rosa,pioggia,vento,rilassamento,mare

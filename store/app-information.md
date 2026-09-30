@@ -29,7 +29,7 @@ Paste these once. The per-locale text lives in `store/<locale>/` (run `python3 T
 | Field | Value |
 |---|---|
 | Price | Free (tier 0) |
-| Availability | All 175 countries and regions |
+| Availability | All 175 countries and regions (China mainland only with an ICP filing number; without one, leave it out) |
 | Pre-orders | Off |
 
 ## Version 1.0 page (per locale, from `store/<locale>/`)

@@ -14,7 +14,7 @@ Goal: as many organic downloads as possible, at least 100 per day. Read this hon
 ## Keyword field notes
 
 - Apple indexes name, subtitle and keywords as one pool and combines words across fields into phrases. A word written twice wastes space. `Tools/make-store.py` fails if a word repeats.
-- Es-MX, en-CA, en-AU and en-GB carry different extra English keywords on purpose. The US storefront is commonly reported to also index the es-MX keyword field; this is common ASO practice and not measured here, so treat it as a cheap bet, not a fact.
+- Several locales are searched together in one storefront (Apple's own table, see `market.md`). en-GB counts in every storefront except the US, Canada and Japan; en-AU only adds words en-GB lacks; es-MX stays Spanish because its English would repeat en-US in the US and en-GB in Latin America. The generator rejects cross-locale duplicates.
 
 ## The first 30 days
 

@@ -20,21 +20,21 @@ One block per App Store Connect locale. Descriptions are in `store/<locale>/desc
 
 - Name: `Umber: Hnědý šum`
 - Subtitle: `Bílý šum, ventilátor, déšť`
-- Keywords: `spánek,spaní,miminko,adhd,soustředění,učení,tinnitus,růžový,oceán,vítr,časovač,klid,relaxace`
+- Keywords: `spánek,spaní,miminko,adhd,soustředění,učení,nespavost,růžový,moře,vítr,časovač,klid,relaxace`
 - Promotional text: Hnědý šum bez smyčky. Devět zvuků generovaných živě, časovač spánku s plynulým zeslabením, bez reklam, účtů a sběru dat. Pro spánek, soustředění a miminka.
 
 ## da
 
 - Name: `Umber: Brun støj`
 - Subtitle: `Hvid støj, ventilator, regn`
-- Keywords: `sove,baby,søvn,adhd,fokus,studere,tinnitus,lyserød,hav,vind,timer,ro,lur,sovelyde`
+- Keywords: `sove,spædbarn,søvn,adhd,fokus,studere,øresus,lyserød,hav,vind,ro,lur,sovelyde,afslapning,søvnløshed`
 - Promotional text: Brun støj uden gentagelser. Ni lyde skabt live, sovetimer med blød udtoning, ingen reklamer, ingen konti og ingen dataindsamling. Til søvn, fokus og babyer.
 
 ## de-DE
 
 - Name: `Umber: Braunes Rauschen`
 - Subtitle: `Weißes Rauschen, Ventilator`
-- Keywords: `einschlafhilfe,baby,schlafen,adhs,konzentration,lernen,tinnitus,rosa,regen,meer,wind,timer,ruhe`
+- Keywords: `einschlafgeräusche,meeresrauschen,einschlafhilfe,schlaf,beruhigung,rosa,ruhe,adhs,konzentration`
 - Promotional text: Braunes Rauschen ohne Schleife. Neun live erzeugte Klänge, sanfter Einschlaf-Timer, keine Werbung, keine Konten, keine Datenerhebung. Für Schlaf, Fokus und Babys.
 
 ## el
@@ -47,64 +47,64 @@ One block per App Store Connect locale. Descriptions are in `store/<locale>/desc
 ## en-AU
 
 - Name: `Umber: Brown Noise & Sleep`
-- Subtitle: `White Noise, Pink, Fan, Rain`
-- Keywords: `machine,sounds,baby,bub,adhd,focus,tinnitus,relax,study,womb,ocean,wind,timer,calm,nap,app`
+- Subtitle: `White & Pink Noise, Fan, Womb`
+- Keywords: `bub,settle,study,newborn,nature,adhd,relax,calm,deep,aid,night,cot,revision,brownian,static`
 - Promotional text: Brown noise that never loops. Nine generated sounds, a gentle sleep timer, no ads, no accounts and nothing collected. For sleep, focus and babies.
 
 ## en-CA
 
 - Name: `Umber: Brown Noise & Sleep`
-- Subtitle: `White Noise, Pink, Fan, Rain`
-- Keywords: `machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,timer,calm,nap,app,newborn`
+- Subtitle: `White & Pink Noise, Fan, Womb`
+- Keywords: `sounds,tinnitus,relief,insomnia,red,green,generator,machine,baby,colic,rain,wind,ocean,focus,timer`
 - Promotional text: Brown noise that never loops. Nine generated sounds, a gentle sleep timer, no ads, no accounts and nothing collected. For sleep, focus and babies.
 
 ## en-GB
 
 - Name: `Umber: Brown Noise & Sleep`
-- Subtitle: `White Noise, Pink, Fan, Rain`
-- Keywords: `machine,sounds,baby,adhd,focus,tinnitus,relax,revision,womb,ocean,wind,green,timer,nap,generator`
+- Subtitle: `White & Pink Noise, Fan, Womb`
+- Keywords: `sounds,tinnitus,relief,insomnia,red,green,generator,machine,baby,colic,rain,wind,ocean,focus,timer`
 - Promotional text: Brown noise that never loops. Nine generated sounds, a gentle sleep timer, no ads, no accounts and nothing collected. For sleep, focus and babies.
 
 ## en-US
 
 - Name: `Umber: Brown Noise & Sleep`
-- Subtitle: `White Noise, Pink, Fan, Rain`
-- Keywords: `machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,green,timer,calm,nap,generator`
+- Subtitle: `White & Pink Noise, Fan, Womb`
+- Keywords: `sounds,tinnitus,relief,insomnia,red,green,generator,machine,baby,colic,rain,wind,ocean,focus,timer`
 - Promotional text: Brown noise that never loops. Nine generated sounds, a gentle sleep timer, no ads, no accounts and nothing collected. For sleep, focus and babies.
 
 ## es-ES
 
 - Name: `Umber: Ruido marrón`
 - Subtitle: `Ruido blanco, ventilador`
-- Keywords: `dormir,bebé,tdah,concentración,estudiar,tinnitus,rosa,lluvia,océano,viento,temporizador,siesta`
+- Keywords: `dormir,sonidos,bebé,tdah,acúfenos,estudiar,lluvia,viento,siesta,insomnio,útero,rosa,océano,mar`
 - Promotional text: Ruido marrón sin bucles. Nueve sonidos en directo, temporizador con fundido suave, sin anuncios, sin cuentas y sin recopilar datos. Para dormir, concentrarte y bebés.
 
 ## es-MX
 
 - Name: `Umber: Ruido marrón`
 - Subtitle: `Ruido blanco, ventilador`
-- Keywords: `dormir,bebé,tdah,estudiar,lluvia,viento,siesta,white,noise,pink,sleep,sounds,machine,baby,focus`
+- Keywords: `dormir,sonidos,bebé,tdah,acúfenos,estudiar,lluvia,viento,siesta,insomnio,útero,rosa,mar,relajación`
 - Promotional text: Ruido marrón sin bucles. Nueve sonidos en directo, temporizador con fundido suave, sin anuncios, sin cuentas y sin recopilar datos. Para dormir, concentrarte y bebés.
 
 ## fi
 
 - Name: `Umber: Ruskea kohina`
 - Subtitle: `Valkoinen kohina, tuuletin`
-- Keywords: `uni,nukkua,vauva,adhd,keskittyminen,opiskelu,tinnitus,vaaleanpunainen,sade,meri,tuuli,ajastin`
+- Keywords: `uni,nukkua,vauva,adhd,keskittyminen,opiskelu,korvien soiminen,vaaleanpunainen,sade,meri,tuuli`
 - Promotional text: Ruskea kohina ilman silmukkaa. Yhdeksän äänestä, uniajastin pehmeällä häivytyksellä, ei mainoksia, ei tilejä eikä tietojen keruuta. Uneen, keskittymiseen ja vauvoille.
 
 ## fr-CA
 
 - Name: `Umber : Bruit brun`
 - Subtitle: `Bruit blanc, ventilateur`
-- Keywords: `sommeil,bébé,dormir,tdah,concentration,étude,acouphènes,rose,pluie,océan,vent,minuteur,calme,sieste`
+- Keywords: `sommeil,bébé,dormir,sons,tdah,insomnie,acouphènes,rose,pluie,vent,sieste,dodo,concentration`
 - Promotional text: Un bruit brun sans boucle. Neuf sons générés en direct, minuteur de sommeil en fondu, sans pub, sans compte, sans collecte. Pour dormir, se concentrer et apaiser bébé.
 
 ## fr-FR
 
 - Name: `Umber : Bruit brun`
 - Subtitle: `Bruit blanc, ventilateur`
-- Keywords: `sommeil,bébé,dormir,tdah,concentration,étude,acouphènes,rose,pluie,océan,vent,minuteur,calme,sieste`
+- Keywords: `sommeil,bébé,dormir,sons,tdah,insomnie,acouphènes,rose,pluie,vent,sieste,dodo,concentration`
 - Promotional text: Un bruit brun sans boucle. Neuf sons générés en direct, minuteur de sommeil en fondu, sans pub, sans compte, sans collecte. Pour dormir, se concentrer et apaiser bébé.
 
 ## he
@@ -125,42 +125,42 @@ One block per App Store Connect locale. Descriptions are in `store/<locale>/desc
 
 - Name: `Umber: Smeđi šum`
 - Subtitle: `Bijeli šum, ventilator, kiša`
-- Keywords: `spavanje,san,bebe,adhd,fokus,učenje,tinitus,ružičasti,ocean,vjetar,timer,mir,drijemanje,opuštanje`
+- Keywords: `spavanje,san,bebe,adhd,fokus,učenje,tinitus,ružičasti,more,vjetar,mir,drijemanje,opuštanje,nesanica`
 - Promotional text: Smeđi šum bez ponavljanja. Devet zvukova generiranih uživo, timer za spavanje s blagim stišavanjem, bez oglasa, računa i prikupljanja podataka. Za san, fokus i bebe.
 
 ## hu
 
 - Name: `Umber: Barna zaj`
 - Subtitle: `Fehér zaj, ventilátor, eső`
-- Keywords: `alvás,altató,baba,adhd,fókusz,tanulás,fülzúgás,rózsaszín,óceán,szél,időzítő,nyugalom,szundi`
+- Keywords: `alvás,altató,baba,adhd,fókusz,tanulás,fülzúgás,rózsaszín,tenger,szél,időzítő,nyugalom,szundi`
 - Promotional text: Barna zaj ismétlődés nélkül. Kilenc élőben generált hang, elalvás időzítő lágy elhalkulással, hirdetések, fiókok és adatgyűjtés nélkül. Alváshoz, fókuszhoz, babáknak.
 
 ## id
 
 - Name: `Umber: Derau Cokelat`
 - Subtitle: `Derau putih, kipas, hujan`
-- Keywords: `tidur,bayi,fokus,belajar,tinitus,merah muda,samudra,angin,timer,tenang,tidur siang,rileks,suara,adhd`
+- Keywords: `tidur,bayi,fokus,belajar,tinitus,merah muda,samudra,angin,tenang,tidur siang,suara,adhd,susah tidur`
 - Promotional text: Derau cokelat tanpa pengulangan. Sembilan suara langsung, timer tidur dengan pemudaran halus, tanpa iklan, akun, atau pengumpulan data. Untuk tidur, fokus, dan bayi.
 
 ## it
 
 - Name: `Umber: Rumore marrone`
 - Subtitle: `Rumore bianco, ventilatore`
-- Keywords: `dormire,sonno,neonato,adhd,concentrazione,studio,acufene,rosa,pioggia,oceano,vento,timer,calma`
+- Keywords: `dormire,sonno,suoni,neonato,adhd,concentrazione,studio,acufene,rosa,pioggia,vento,rilassamento,mare`
 - Promotional text: Rumore marrone senza loop. Nove suoni dal vivo, timer del sonno con dissolvenza, senza pubblicità né account, nessun dato raccolto. Per dormire, concentrarsi e neonati.
 
 ## ja
 
 - Name: `Umber: ブラウンノイズ`
-- Subtitle: `ホワイトノイズ・ピンク・扇風機・雨`
-- Keywords: `睡眠,赤ちゃん,寝かしつけ,集中,勉強,耳鳴り,海,風,タイマー,昼寝,リラックス,環境音,作業用,胎内音`
+- Subtitle: `ホワイトノイズ・ピンクノイズ・扇風機・雨音`
+- Keywords: `睡眠,赤ちゃん,寝かしつけ,胎内音,集中,勉強,耳鳴り,環境音,作業用,睡眠導入,快眠,安眠,不眠,入眠,波の音,風の音,自然音,リラックス,雑音,ノイズ,タイマー,昼寝`
 - Promotional text: ループしないブラウンノイズ。その場で生成する9つの音、ゆっくりフェードするスリープタイマー。広告なし、アカウント不要、データ収集なし。集中、睡眠、赤ちゃんのために。
 
 ## ko
 
-- Name: `Umber: 브라운 노이즈`
-- Subtitle: `백색소음, 핑크, 선풍기, 빗소리`
-- Keywords: `수면,아기,잠,집중,공부,이명,바다,바람,타이머,낮잠,휴식,자장가,asmr,태교`
+- Name: `Umber: 브라운노이즈`
+- Subtitle: `백색소음, 핑크노이즈, 선풍기, 빗소리`
+- Keywords: `수면,아기,잠,집중,공부,이명,불면증,수면유도,파도소리,바람소리,소음,태교,asmr,자연의소리,노이즈,브라운,휴식,낮잠,타이머`
 - Promotional text: 반복 없는 브라운 노이즈. 실시간으로 생성되는 아홉 가지 소리, 서서히 줄어드는 수면 타이머. 광고 없음, 계정 없음, 데이터 수집 없음. 집중, 수면, 아기를 위해.
 
 ## ms
@@ -174,42 +174,42 @@ One block per App Store Connect locale. Descriptions are in `store/<locale>/desc
 
 - Name: `Umber: Bruine ruis`
 - Subtitle: `Witte ruis, ventilator, regen`
-- Keywords: `slapen,baby,slaap,adhd,focus,studeren,tinnitus,roze,oceaan,wind,timer,rust,dutje,slaapgeluiden`
+- Keywords: `slapen,slaap,adhd,concentratie,studeren,oorsuizen,roze,oceaan,zee,rust,dutje,slaapgeluiden`
 - Promotional text: Bruine ruis zonder lus. Negen live gemaakte geluiden, slaaptimer met zacht vervagen, geen advertenties, geen accounts, niets verzameld. Voor slaap, focus en baby’s.
 
 ## no
 
 - Name: `Umber: Brunt støy`
 - Subtitle: `Hvit støy, vifte, regn`
-- Keywords: `sove,baby,søvn,adhd,fokus,studere,tinnitus,rosa,hav,vind,timer,ro,lur,søvnlyder`
+- Keywords: `sove,spedbarn,søvn,adhd,fokus,studere,øresus,rosa,hav,vind,ro,lur,søvnlyder,avslapning,søvnløshet`
 - Promotional text: Brunt støy uten løkker. Ni lyder laget live, sovetimer med myk uttoning, ingen reklame, ingen kontoer og ingen datainnsamling. For søvn, fokus og babyer.
 
 ## pl
 
 - Name: `Umber: Brązowy szum`
 - Subtitle: `Biały szum, wentylator, deszcz`
-- Keywords: `sen,spanie,niemowlę,adhd,skupienie,nauka,szumy uszne,różowy,ocean,wiatr,timer,relaks,drzemka,dźwięki`
+- Keywords: `sen,spanie,niemowlę,adhd,skupienie,nauka,szumy uszne,różowy,morze,wiatr,bezsenność,relaks,drzemka`
 - Promotional text: Brązowy szum bez zapętlenia. Dziewięć dźwięków na żywo, timer snu z płynnym wyciszaniem, bez reklam, kont i zbierania danych. Do snu, skupienia i dla niemowląt.
 
 ## pt-BR
 
 - Name: `Umber: Ruído marrom`
 - Subtitle: `Ruído branco, ventilador`
-- Keywords: `dormir,sono,bebê,tdah,foco,estudar,zumbido,rosa,chuva,oceano,vento,timer,calma,soneca,relaxar`
+- Keywords: `dormir,sons,sono,bebê,ninar,tdah,foco,estudar,zumbido,rosa,chuva,oceano,vento,soneca,relaxar`
 - Promotional text: Ruído marrom sem repetição. Nove sons gerados na hora, timer de sono com fade suave, sem anúncios, sem contas e sem coleta de dados. Para dormir, focar e acalmar bebês.
 
 ## pt-PT
 
 - Name: `Umber: Ruído castanho`
 - Subtitle: `Ruído branco, ventoinha`
-- Keywords: `dormir,sono,bebé,hiperatividade,foco,estudar,acufenos,rosa,chuva,oceano,vento,temporizador,calma`
+- Keywords: `dormir,sons,sono,bebé,hiperatividade,foco,estudar,acufenos,rosa,chuva,oceano,vento,insónia,calma`
 - Promotional text: Ruído castanho sem repetição. Nove sons gerados na hora, temporizador com esbatimento suave, sem anúncios, sem contas e sem recolha de dados. Para dormir, focar e bebés.
 
 ## ro
 
 - Name: `Umber: Zgomot maro`
 - Subtitle: `Zgomot alb, ventilator, ploaie`
-- Keywords: `somn,dormit,bebeluși,adhd,concentrare,învățat,tinitus,roz,ocean,vânt,temporizator,liniște`
+- Keywords: `somn,dormit,bebeluși,adhd,concentrare,învățat,tinitus,roz,mare,vânt,temporizator,liniște,insomnie`
 - Promotional text: Zgomot maro fără repetiții. Nouă sunete live, temporizator de somn cu estompare, fără reclame, conturi sau colectare de date. Pentru somn, concentrare și bebeluși.
 
 ## ru
@@ -223,14 +223,14 @@ One block per App Store Connect locale. Descriptions are in `store/<locale>/desc
 
 - Name: `Umber: Hnedý šum`
 - Subtitle: `Biely šum, ventilátor, dážď`
-- Keywords: `spánok,spanie,bábätko,adhd,sústredenie,učenie,tinnitus,ružový,oceán,vietor,časovač,pokoj,relax`
+- Keywords: `spánok,spanie,bábätko,adhd,sústredenie,učenie,nespavosť,ružový,more,vietor,časovač,pokoj,relax`
 - Promotional text: Hnedý šum bez opakovania. Deväť zvukov generovaných naživo, časovač spánku s plynulým stíšením, bez reklám, účtov a zberu údajov. Na spánok, sústredenie a bábätká.
 
 ## sv
 
 - Name: `Umber: Brunt brus`
 - Subtitle: `Vitt brus, fläkt, regn`
-- Keywords: `sova,bebis,sömn,adhd,fokus,studera,tinnitus,rosa,hav,vind,timer,lugn,tupplur,sömnljud`
+- Keywords: `sova,bebis,sömn,adhd,fokus,studera,öronsus,rosa,hav,vind,lugn,tupplur,sömnljud,sömnlöshet`
 - Promotional text: Brunt brus som aldrig loopar. Nio ljud skapade live, sovtimer med mjuk uttoning, inga annonser, inga konton och ingen datainsamling. För sömn, fokus och bebisar.
 
 ## th
@@ -244,7 +244,7 @@ One block per App Store Connect locale. Descriptions are in `store/<locale>/desc
 
 - Name: `Umber: Kahverengi Gürültü`
 - Subtitle: `Beyaz gürültü, fan, yağmur`
-- Keywords: `uyku,bebek,uyumak,dikkat,odaklanma,ders,tinnitus,pembe,okyanus,rüzgar,zamanlayıcı,sakin,şekerleme`
+- Keywords: `uyku,bebek,uyumak,dikkat,odaklanma,ders,kulak çınlaması,pembe,okyanus,rüzgar,sakin,şekerleme`
 - Promotional text: Döngüsüz kahverengi gürültü. Canlı üretilen dokuz ses, yumuşakça kısılan uyku zamanlayıcısı, reklamsız, hesapsız ve veri toplamadan. Uyku, odak ve bebekler için.
 
 ## uk

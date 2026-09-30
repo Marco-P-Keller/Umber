@@ -1,1 +1,1 @@
-sommeil,bébé,dormir,tdah,concentration,étude,acouphènes,rose,pluie,océan,vent,minuteur,calme,sieste
+sommeil,bébé,dormir,sons,tdah,insomnie,acouphènes,rose,pluie,vent,sieste,dodo,concentration

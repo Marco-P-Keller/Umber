@@ -1,1 +1,1 @@
-uni,nukkua,vauva,adhd,keskittyminen,opiskelu,tinnitus,vaaleanpunainen,sade,meri,tuuli,ajastin
+uni,nukkua,vauva,adhd,keskittyminen,opiskelu,korvien soiminen,vaaleanpunainen,sade,meri,tuuli

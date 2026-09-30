@@ -3,7 +3,7 @@
 
 Run from anywhere:  python3 Tools/make-store.py
 """
-import json, pathlib, re, sys
+import json, pathlib, re, sys, unicodedata
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
@@ -65,6 +65,27 @@ for locale, lang in ASC.items():
     if "umber" in kw.lower():
         problems.append(f"{locale} kw: repeats the app name")
     count += 1
+
+# A storefront searches several locales at once (App Store Connect reference, "App Store localizations"):
+# every storefront except the US, Canada and Japan also searches en-GB; the US also searches es-MX, fr-FR,
+# pt-BR, ko, ru, vi, ar-SA and Chinese; Japan also searches en-US; Canada searches en-CA and fr-CA.
+# A keyword that the co-searched English locale already carries is wasted space.
+PARTNERS = {"en-US": [], "en-GB": [], "en-CA": [], "ja": ["en-US"], "fr-CA": ["en-CA"],
+            **{l: ["en-GB", "en-US"] for l in ["es-MX", "fr-FR", "pt-BR", "ko", "ru", "vi", "ar-SA", "zh-Hans", "zh-Hant"]}}
+
+def folded(text):
+    return {unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode() or w for w in words(text)}
+
+def fields(locale):
+    d = dict(L[ASC[locale]]); d.update(VARIANTS.get(locale, {}))
+    return d
+
+for locale in ASC:
+    mine = folded(fields(locale)["kw"].replace(",", " "))
+    for partner in PARTNERS.get(locale, ["en-GB"]):
+        p = fields(partner)
+        for w in sorted(mine & folded(" ".join([p["name"], p["sub"], p["kw"].replace(",", " ")]))):
+            problems.append(f"{locale} kw: '{w}' is already searched through {partner}")
 
 sheet = ["# Paste sheet", "", "One block per App Store Connect locale. Descriptions are in `store/<locale>/description.txt`.", ""]
 for locale, lang in ASC.items():

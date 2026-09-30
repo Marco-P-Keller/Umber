@@ -1,1 +1,1 @@
-machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,green,timer,calm,nap,generator
+sounds,tinnitus,relief,insomnia,red,green,generator,machine,baby,colic,rain,wind,ocean,focus,timer
