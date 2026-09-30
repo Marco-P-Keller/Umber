@@ -11,7 +11,7 @@ L = {}
 L["en"] = dict(
     name="Umber: Brown Noise & Sleep",
     sub="White Noise, Pink, Fan, Rain",
-    kw="machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,green,timer,calm,nap,lullaby",
+    kw="machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,green,timer,calm,nap,generator",
     promo="Brown noise that never loops. Nine generated sounds, a gentle sleep timer, no ads, no accounts and nothing collected. For sleep, focus and babies.",
     hook="Umber makes brown noise, pink noise, white noise and six more calming sounds, generated live on your device, so nothing ever loops and nothing repeats. Deep, warm and smooth for sleep, focus, studying and settling a baby.",
     label="Nine sounds",
@@ -556,7 +556,7 @@ L["zh-Hant"] = dict(
 # The keyword field of a locale is indexed for its own storefront; several storefronts also index a
 # second locale, so es-MX (also read for the US) and the English variants carry English extras.
 VARIANTS = {
-    "en-GB": dict(kw="machine,sounds,baby,adhd,focus,tinnitus,relax,revision,womb,ocean,wind,green,timer,calm,nap,lullaby"),
+    "en-GB": dict(kw="machine,sounds,baby,adhd,focus,tinnitus,relax,revision,womb,ocean,wind,green,timer,nap,generator"),
     "en-AU": dict(kw="machine,sounds,baby,bub,adhd,focus,tinnitus,relax,study,womb,ocean,wind,timer,calm,nap,app"),
     "en-CA": dict(kw="machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,timer,calm,nap,app,newborn"),
     "es-MX": dict(

@@ -62,14 +62,14 @@ One block per App Store Connect locale. Descriptions are in `store/<locale>/desc
 
 - Name: `Umber: Brown Noise & Sleep`
 - Subtitle: `White Noise, Pink, Fan, Rain`
-- Keywords: `machine,sounds,baby,adhd,focus,tinnitus,relax,revision,womb,ocean,wind,green,timer,calm,nap,lullaby`
+- Keywords: `machine,sounds,baby,adhd,focus,tinnitus,relax,revision,womb,ocean,wind,green,timer,nap,generator`
 - Promotional text: Brown noise that never loops. Nine generated sounds, a gentle sleep timer, no ads, no accounts and nothing collected. For sleep, focus and babies.
 
 ## en-US
 
 - Name: `Umber: Brown Noise & Sleep`
 - Subtitle: `White Noise, Pink, Fan, Rain`
-- Keywords: `machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,green,timer,calm,nap,lullaby`
+- Keywords: `machine,sounds,baby,adhd,focus,tinnitus,relax,study,womb,ocean,wind,green,timer,calm,nap,generator`
 - Promotional text: Brown noise that never loops. Nine generated sounds, a gentle sleep timer, no ads, no accounts and nothing collected. For sleep, focus and babies.
 
 ## es-ES
